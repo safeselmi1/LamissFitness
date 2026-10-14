@@ -1,0 +1,9 @@
+{
+  "name": "lamiss-fitness-backend",
+  "private": true,
+  "type": "module",
+  "description": "Lamiss Fitness API, database, jobs, and edge functions.",
+  "scripts": {
+    "dev": "echo backend not started yet"
+  }
+}
