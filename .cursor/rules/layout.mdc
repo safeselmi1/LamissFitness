@@ -1,0 +1,6 @@
+---
+description: Where UI and data code live
+alwaysApply: true
+---
+
+UI only in front/. Data and jobs only in back/.
